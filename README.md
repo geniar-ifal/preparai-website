@@ -14,27 +14,27 @@ Explore the live version here: [SkillSpring Live Demo](https://cosbydeveloper.gi
 
 ### Hero Section
 
-![Hero Section](images/screenshots/hero-secton.png)  
+![Hero Section](images/screenshots/hero-section.png)  
 _Engaging headline with calls-to-action for user conversion._
 
 ### Video Section
 
-![Video Section](images/video-section.png)  
+![Video Section](images/screenshots/video-preview.png)  
 _A preview of course structure with a demo button._
 
 ### Testimonials Section
 
-![Testimonials Section](images/testimonials-section.png)  
+![Testimonials Section](images/screenshots/testimonials-section.png)  
 _Success stories from learners worldwide._
 
 ### Pricing Section
 
-![Pricing Section](images/pricing-section.png)  
+![Pricing Section](images/screenshots/pricing-section.png)  
 _Clear and concise pricing plans to guide user decisions._
 
 ### FAQ Section
 
-![FAQ Section](images/faq-section.png)  
+![FAQ Section](images/screenshots/faq-section.png)  
 _Answers to common user questions to enhance clarity._
 
 ---
